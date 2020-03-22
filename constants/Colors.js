@@ -1,3 +1,4 @@
+// Colors
 const HumanGenderIconColor = 'red';
 const HumanGenderIconInitialColor = 'gray';
 const SymbolGenderIconColorMale = 'green';
