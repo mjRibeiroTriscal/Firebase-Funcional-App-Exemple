@@ -13,7 +13,7 @@
     "expo-ads-admob": "~6.0.0",
     "expokit": "34.0.2",
     "firebase": "^7.12.0",
-    "firebase-admin": "^8.10.0",
+    "firebase-admin": "^11.4.1",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
